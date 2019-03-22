@@ -1,6 +1,6 @@
 # SAP Virtualization Without a Connection to the SAP System
 ## Introduction
-Support for virtualizing SAP RFC calls is achieved by using the Java Agent to intercept calls made by applications that use the SAP Java Connector.  In previous releases of IBM Rational Integration Tester, the application still required a connection to the SAP server to retrieve metadata.  Using IBM Rational Intgeration Tester 9.5 it is possible to support the scenario where a SAP server is not be available in the environment in which virtualization is required.  This is acheived by recording the calls to retrieve metadata and creating stubs to replay that data.
+Support for virtualizing SAP RFC calls is achieved by using the Java Agent to intercept calls made by applications that use the SAP Java Connector.  In previous releases of IBM Rational Integration Tester, the application still required a connection to the SAP server to retrieve metadata.  Using IBM Rational Intgeration Tester 9.5 it is possible to support the scenario where a SAP server is not available in the environment in which virtualization is required.  This is acheived by recording the calls to retrieve metadata and creating stubs to replay that data.
 
 Please see product documentation for more details about setting up your project to virtualize SAP RFC calls.
 
