@@ -19,7 +19,7 @@ A pre-configured transport is available in __sap-metadata-recording.zip__, the f
    1.	Select default options and complete wizard
 1. Configure the physical Java Application transport
    1. In Logical View right-click on the __sap-metadata-recording__ transport
-   1. From the context menu: Set Binding In -> <environment> -> Create new JVM
+   1. From the context menu: __Set Binding In__ -> &lt;environment&gt; -> __Create new JVM__
    1. In most cases, just save with the default values (refer to product documentation for further details on JVM configuration)
 1. Record the SAP RFC calls and metadata
    1. In Logical view, select the __sap-metadata-recording__ transport and the existing SAP transport.
