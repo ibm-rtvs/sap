@@ -15,7 +15,7 @@ A pre-configured transport is available in __sap-metadata-recording.zip__, the f
 
 1. Import the __sap-metadata-recording.zip__ file:
    1. __Project__ -> __Import Resources…__
-   1. Select s__ap-metadata-recording.zip__
+   1. Select __sap-metadata-recording.zip__
    1.	Select default options and complete wizard
 1. Configure the physical Java Application transport
    1. In Logical View right-click on the __sap-metadata-recording__ transport
